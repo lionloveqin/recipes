@@ -1,0 +1,6 @@
+1. implementing an arraylist;
+  When the index out of bound.
+  1. throw a exception when assiged to another one
+  2. expand the size when pushing a new one
+
+2. mini backstrace dumpper of glog implementation.
