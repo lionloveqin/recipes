@@ -1,2 +1,2 @@
 # recipes
-Some code code snippets for practicing and sharing.
+Some code snippets for practicing and sharing.
